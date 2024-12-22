@@ -1,1 +1,1 @@
-This is forr refrence for using nextauth
+This is for refrence for using nextauth
